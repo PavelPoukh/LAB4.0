@@ -5,7 +5,6 @@
 ## 1) Пошаговое затухание
 
    initial_lrate = 0.0001
-   
    drop = 0.5         
    epochs_drop = 15.0  
     
