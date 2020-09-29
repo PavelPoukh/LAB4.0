@@ -135,4 +135,4 @@ if __name__ == '__main__':
 
 # Commented out IPython magic to ensure Python compatibility.
 # %load_ext tensorboard
-# %tensorboard --logdir "/content/drive/My Drive/smomi/lab4.1"
+# %tensorboard --logdir "/content/drive/My Drive/logs"
